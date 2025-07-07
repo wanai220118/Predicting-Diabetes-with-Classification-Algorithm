@@ -8,7 +8,7 @@ Built a predictive model using classification algorithms like Random Forest, Log
 - Data preprocessing and handling missing values
 - Feature selection and correlation analysis
 - Multiple classifier comparison (Random Forest, Logistic Regression, KNN)
-- Evaluation using accuracy, precision, recall, F1-score, confusion matrix, and AUC
+- Evaluation using error rate, accuracy, precision, recall, and F1-score
 - Visualizations for EDA and model performance
 
 ## Dataset
